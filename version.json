@@ -1,6 +1,5 @@
 {
-  "latest_version": "6.0",
+  "latest_version": "7.0",
   "download_url": "https://hediyebox.vercel.app",
-  "changelog": "❤️ Takipçi Bildirim Sistemi Getirildi Birisi Takip Ettiğinde ekrana Çıkıyor 
-  ama profil kapağı gözükmüyor ve gitmiyor gitmesi için uygulama kapatıp yeniden açın ❤️"
+  "changelog": "Ses Çalma Hataları Düzeltildi"
 }
