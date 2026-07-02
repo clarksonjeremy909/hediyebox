@@ -1,5 +1,5 @@
 {
-  "latest_version": "11.9",
+  "latest_version": "12.0",
   "download_url": "https://hediyebox.vercel.app",
-  "changelog": "yeni özellikler eklendi"
+  "changelog": "video çalma hataları düzeltildi"
 }
