@@ -1,5 +1,5 @@
 {
-  "latest_version": "11.4",
+  "latest_version": "11.5",
   "download_url": "https://hediyebox.vercel.app",
-  "changelog": "buglar düzeltildi"
+  "changelog": "eski sürümden yayın bağlantıları kaldırıldı ve video seçme yerine dikey / kare seçme getirildi"
 }
