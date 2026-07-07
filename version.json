@@ -1,5 +1,5 @@
 {
-  "latest_version": "11.5",
+  "latest_version": "11.6",
   "download_url": "https://hediyebox.vercel.app/HediyeBoxApp-debug.apk",
-  "changelog": "Kare/Dikey oran butonları eklendi, hata düzeltmeleri."
+  "changelog": "bütün hatalar fixlendi videodlar çalışıyor ve iki kere cikmiyor"
 }
