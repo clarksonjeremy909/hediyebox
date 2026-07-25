@@ -1,1 +1,8 @@
-a
+{
+  "enabled": true,
+  "force_update": true,
+  "version": "1.5.6",
+  "version_code": 13,
+  "description": "Hediye algılama geliştirildi ve bazı hatalar düzeltildi.",
+  "download_url": "https://hediyebox.com.tr"
+}
