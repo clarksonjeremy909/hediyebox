@@ -1,4 +1,11 @@
 {
-  "supabase_url": "https://cjsnwcwuhwezyzytdola.supabase.co",
-  "supabase_key": "sb_publishable_rn5KU3H8na_s0O_to5bCjg_UaogB2OK"
+  "api_base_url": "https://www.hediyebox.com.tr",
+  "login_endpoint": "/api/app-login",
+  "session_check_endpoint": "/api/app-session-check",
+  "live_start_endpoint": "/api/pingplay/live/start",
+  "live_join_endpoint": "/api/pingplay/live/join",
+  "live_stop_endpoint": "/api/pingplay/live/stop",
+  "live_list_endpoint": "/api/pingplay/live/list",
+  "profile_endpoint": "/api/pingplay/profile",
+  "chat_endpoint": "/api/pingplay/chat"
 }
